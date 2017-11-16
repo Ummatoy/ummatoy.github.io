@@ -1,0 +1,26 @@
+
+body
+{
+	background-color: lightblue;
+	text-align: center;
+	font-family:Lucida Handwriting;
+}
+
+
+
+h1 {
+	color: blue;
+	background-color: pink;
+
+}
+p
+{
+	color:orange;
+	text-align: left
+	background-color:darkpurple;
+	font-size: 33px;
+}
+img {
+	width 140px;
+	height 75px;
+}
